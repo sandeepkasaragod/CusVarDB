@@ -1,0 +1,5 @@
+Unzip the following files for editing
+	- Perl.zip
+	- DB_making.zip
+	- FastQC.zip
+	

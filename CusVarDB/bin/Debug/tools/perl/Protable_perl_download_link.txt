@@ -1,0 +1,5 @@
+Perl can be downloaded from the below link
+http://strawberryperl.com/releases.html
+
+We have used perl 5.28 version in the CusVarDB tool
+http://strawberryperl.com/download/5.28.2.1/strawberry-perl-5.28.2.1-64bit-portable.zip

@@ -60,6 +60,7 @@ The dry run option helps the advanced or professional user to customize the comm
 
 Dry run generated commands are stored in a dry_run.sh file. This file can be executed in terminal by typing below command 
 ```bash dry_run.sh```
+
 (**Note**: The bash script needs to be run on Linux Environment.)
 
 ### Running the GUI 

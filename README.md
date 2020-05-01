@@ -1,4 +1,4 @@
-[![DOI: AGPL v3](https://zenodo.org/badge/DOI/10.5281/zenodo.3780645.svg)]
+[(https://zenodo.org/badge/DOI/10.5281/zenodo.3780645.svg)]
 
 ## About CusVarDB
 CusVarDB is a windows based tool for creating a variant protein database from Next-generation sequencing datasets. The program supports variant calling for Genome, RNA-Seq and ExomeSeq datasets. The program performs mainly 4 modules 

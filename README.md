@@ -30,8 +30,7 @@ Control panel->Uninstall programs->Turn windows feature on or off-> click on Win
 Installing the Ubuntu 18.04 LTS 
 Go to Microsoft stores->Search-> 
 Type “Ubuntu 18.04 LTS” and download the Ubuntu 18.04 LTS. 
-(If problem in installing, please follow the YouTube or the web link https://www.youtube.com/watch?v=Cvrqmq9A3tA  or https://www.windowscentral.com/howinstall-bash-shell-command-line-windows-10 ) 
-After the installation of Ubuntu, necessary packages has to be installed such as  
+(If problem in installing, please follow the YouTube or the web link https://www.youtube.com/watch?v=Cvrqmq9A3tA  or https://www.windowscentral.com/howinstall-bash-shell-command-line-windows-10 ). After the installation of Ubuntu, necessary packages has to be installed such as  
 1. Java 8 
 2. BWA 
 3. Samtools 

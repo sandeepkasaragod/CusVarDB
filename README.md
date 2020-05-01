@@ -1,3 +1,4 @@
+##CusVarDB
 CusVarDB is a windows based tool for creating a variant protein database from Next-generation sequencing datasets. The programs supports variant calling for Genome, RNA-Seq and exome datasets. The program performs mainly 4 modules 
 1. Align the datasets with reference database 
 2. Perform the variant calling using Genome Analysis Toolkit (GATK) 
@@ -19,12 +20,13 @@ Settings->Update & Security->For Developers, enable the Developer mode by clicki
 Enable bash on Linux
  
 Control panel->Uninstall programs->Turn windows feature on or off-> click on Windows Subsystems for Linux. Restart the Operating System to take the effect. 
+
 Installing the Ubuntu 18.04 LTS 
 Go to Microsoft stores->Search-> 
 Type “Ubuntu 18.04 LTS” and download the Ubuntu 18.04 LTS. 
 (If problem in installing, please follow the YouTube or the web link https://www.youtube.com/watch?v=Cvrqmq9A3tA  or https://www.windowscentral.com/howinstall-bash-shell-command-line-windows-10 ) 
 After the installation of Ubuntu, necessary packages has to be installed such as  
- Java 8  BWA  Samtools  Unzip 
+1. Java 8 2. BWA 3. Samtools 4. Unzip 
 These tools and packages can be downloaded by the CusVarDB tool. Go to the CusVarDB main page and click on "Install Linux dependencies". This option will download the tools and packages. After the each tool / package installation the terminal will asks for user to press any key to continue and download the next tool / packages.  
 
 In case, if user will find any problem in installing the Linux dependencies, below command will help in installing the packages / tools manually. 

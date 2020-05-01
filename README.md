@@ -80,7 +80,7 @@ The variant protein database is generated from the RefSeq version 81. User has t
 
 (**Note**: The latest version of RefSeq database can be downloaded at NCBI. Make sure that the header of the database must be in specific format (as mentioned below).
 
-```>gi|53828740|ref|NP_001005484.1| NP_001005484.1#OR4F5#79501#olfactory receptor 4F5 [Homo sapiens]```
+```>gi|53828740|ref|NP_001005484.1| NP_001005484.1#OR4F5#79501#olfactory receptor 4F5 [Homo sapiens]```  
 (**Note**: Any change in the header will lead to index error.) 
 
 

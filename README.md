@@ -1,12 +1,12 @@
 ## About CusVarDB
-CusVarDB is a windows based tool for creating a variant protein database from Next-generation sequencing datasets. The programs supports variant calling for Genome, RNA-Seq and exome datasets. The program performs mainly 4 modules 
+CusVarDB is a windows based tool for creating a variant protein database from Next-generation sequencing datasets. The program supports variant calling for Genome, RNA-Seq and ExomeSeq datasets. The program performs mainly 4 modules 
 1. Align the datasets with reference database 
 2. Perform the variant calling using Genome Analysis Toolkit (GATK) 
 3. Annotate the variant using ANOOVAR  
 4. Create the variant protein database 
 
-Apart from the main modules, the program also supports additional function such as 
-1. download the SRA 
+Apart from the main modules, the program also supports additional functions such as 
+1. Download the SRA 
 2. Convert the SRA file to fastq file format 
 3. Download the annotation (ANNOVAR) database and Dry-run concept to customize the commands.
 
@@ -49,7 +49,7 @@ sudo apt-get install Samtools
 sudo apt install unzip 
 ```
 
-**(Note: Make sure that you have followed the order of downloading the tools / packages. In case any error occurred during the alignment process then make sure that you have installed the Samtools version 1.7 (using htslib 1.7-2) and BWA version (0.7.17-r1188)** 
+**(Note**: Make sure that you have followed the order of downloading the tools / packages. In case any error occurred during the alignment process then make sure that you have installed the Samtools version 1.7 (using htslib 1.7-2) and BWA version (0.7.17-r1188)
  
 ANNOVAR can be downloaded at:       http://annovar.openbioinformatics.org/en/latest/user-guide/download/ 
 (**Note**: Make sure that the Folder and the file names of downloaded tool are same as above mentioned. Otherwise the tool will end up giving error message “No such file or directory”) 

@@ -13,7 +13,7 @@ Apart from the main modules, the program also supports additional functions such
 ### System requirments
 	- Windows 10 or above
 	- Minimum system requirements include Intel i5 or i7 having at least 4 cores with 8 GB of RAM and 1 TB hard drive  
-(**Note**: High performance processors such as Intel i9 or Xeon and large quantity of RAM can enable faster execution of tasks)
+(**Note**: High performance processors such as Intel i9 or Xeon and large quantity of RAM can enable faster execution of tasks.)
 
 ### Prerequisites
  
@@ -48,7 +48,7 @@ sudo apt-get install Samtools
 sudo apt install unzip 
 ```
 
-**(Note**: Make sure that you have followed the order of downloading the tools / packages. In case any error occurred during the alignment process then make sure that you have installed the Samtools version 1.7 (using htslib 1.7-2) and BWA version (0.7.17-r1188)
+**(Note**: Make sure that you have followed the order of downloading the tools / packages. In case any error occurred during the alignment process then make sure that you have installed the Samtools version 1.7 (using htslib 1.7-2) and BWA version (0.7.17-r1188).)
  
 ANNOVAR can be downloaded at:       http://annovar.openbioinformatics.org/en/latest/user-guide/download/ 
 (**Note**: Make sure that the Folder and the file names of downloaded tool are same as above mentioned. Otherwise the tool will end up giving error message “No such file or directory”.) 

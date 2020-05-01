@@ -1,16 +1,5 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3780645.svg)](https://doi.org/10.5281/zenodo.3780644)  [![CC BY 4.0][cc-by-shield]][cc-by] 
 
-This work is licensed under a [Creative Commons Attribution 4.0 International
-License][cc-by].
-
-[![CC BY 4.0][cc-by-image]][cc-by]
-
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
-
-
-
 ## About CusVarDB
 CusVarDB is a windows based tool for creating a variant protein database from Next-generation sequencing datasets. The program supports variant calling for Genome, RNA-Seq and ExomeSeq datasets. The program performs mainly 4 modules 
 1. Align the datasets with reference database 
@@ -100,5 +89,15 @@ The variant protein database is generated from the RefSeq version 81. User has t
 
 ```>gi|53828740|ref|NP_001005484.1| NP_001005484.1#OR4F5#79501#olfactory receptor 4F5 [Homo sapiens]```  
 (**Note**: Any change in the header will lead to index error.)
+
+
+This work is licensed under a [Creative Commons Attribution 4.0 International
+License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 

@@ -44,7 +44,7 @@ sudo apt-get install Samtools
 sudo apt install unzip 
 ```
 
-(Note: Make sure that you have followed the order of downloading the tools / packages. In case any error occurred during the alignment process then make sure that you have installed the Samtools version 1.7 (using htslib 1.7-2) and BWA version (0.7.17-r1188) 
+*(Note: Make sure that you have followed the order of downloading the tools / packages. In case any error occurred during the alignment process then make sure that you have installed the Samtools version 1.7 (using htslib 1.7-2) and BWA version (0.7.17-r1188)* 
 
 The tool ANNOVAR needs to be downloaded by the user. 
  

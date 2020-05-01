@@ -5,9 +5,9 @@ CusVarDB is a windows based tool for creating a variant protein database from Ne
 4. Create the variant protein database 
 
 Apart from the main modules, the program also supports additional function such as 
-I) download the SRA 
-II) Convert the SRA file to fastq file format 
-III) Download the annotation (ANNOVAR) database and Dry-run concept to customize the commands.
+1. download the SRA 
+2. Convert the SRA file to fastq file format 
+3. Download the annotation (ANNOVAR) database and Dry-run concept to customize the commands.
  
 Prerequisites 
 The tool works on Windows 10 and higher version of operating systems. Tool requires Ubuntu 18.04 LTS to be installed.  

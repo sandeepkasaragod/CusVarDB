@@ -12,12 +12,13 @@ Apart from the main modules, the program also supports additional function such 
  
 ### Prerequisites
  
-The tool works on Windows 10 and higher version of operating systems. Tool requires Ubuntu 18.04 LTS to be installed.  
-Please follow the below steps to install Ubuntu 18.04 LTS on Windows OS 
+The tool works on Windows 10 operating system. It requires Ubuntu 18.04 LTS to be installed.  
 
-Settings->Update & Security->For Developers, enable the Developer mode by clicking the radio button. This will install the packages requires to Run the Linux environment.
+### Install Ubuntu 18.04 LTS on Windows OS 
 
-Enable bash on Linux
+Settings->Update & Security->For Developers, enable the "Developer mode" by clicking the radio button. This will install the packages requires to Run the Linux environment.
+
+#### Enable bash on Linux
  
 Control panel->Uninstall programs->Turn windows feature on or off-> click on Windows Subsystems for Linux. Restart the Operating System to take the effect. 
 

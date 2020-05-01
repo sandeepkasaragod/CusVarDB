@@ -1,5 +1,3 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3780645.svg)](https://doi.org/10.5281/zenodo.3780644)
-
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a [Creative Commons Attribution 4.0 International
@@ -11,6 +9,7 @@ License][cc-by].
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3780645.svg)](https://doi.org/10.5281/zenodo.3780644)
 
 ## About CusVarDB
 CusVarDB is a windows based tool for creating a variant protein database from Next-generation sequencing datasets. The program supports variant calling for Genome, RNA-Seq and ExomeSeq datasets. The program performs mainly 4 modules 

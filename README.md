@@ -25,7 +25,7 @@ Settings->Update & Security->For Developers, enable the "Developer mode" by clic
 
 #### Enable bash on Linux
  
-Control panel->Uninstall programs->Turn windows feature on or off-> click on Windows Subsystems for Linux. Restart the Operating System to take the effect. 
+Control panel->Uninstall programs->Turn windows feature on or off-> click on "Windows Subsystems for Linux". Restart the Operating System to take the effect. 
 
 Installing the Ubuntu 18.04 LTS 
 Go to Microsoft stores->Search-> 

@@ -35,13 +35,14 @@ After the installation of Ubuntu, necessary packages has to be installed such as
 These tools and packages can be downloaded by the CusVarDB tool. Go to the CusVarDB main page and click on "Install Linux dependencies". This option will download the tools and packages. After the each tool / package installation the terminal will asks for user to press any key to continue and download the next tool / packages.  
 
 In case, if user will find any problem in installing the Linux dependencies, below command will help in installing the packages / tools manually. 
- 
+'''
 sudo add-apt-repository ppa:webupd8team/java 
 sudo apt-get update 
 sudo apt-get install openjdk-8-jre 
 sudo apt-get install bwa 
 sudo apt-get install Samtools 
 sudo apt install unzip 
+'''
 
 (Note: Make sure that you have followed the order of downloading the tools / packages. In case any error occurred during the alignment process then make sure that you have installed the Samtools version 1.7 (using htslib 1.7-2) and BWA version (0.7.17-r1188) 
 

@@ -1,4 +1,4 @@
-##CusVarDB
+## CusVarDB
 CusVarDB is a windows based tool for creating a variant protein database from Next-generation sequencing datasets. The programs supports variant calling for Genome, RNA-Seq and exome datasets. The program performs mainly 4 modules 
 1. Align the datasets with reference database 
 2. Perform the variant calling using Genome Analysis Toolkit (GATK) 

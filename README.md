@@ -27,7 +27,11 @@ Go to Microsoft stores->Search->
 Type “Ubuntu 18.04 LTS” and download the Ubuntu 18.04 LTS. 
 (If problem in installing, please follow the YouTube or the web link https://www.youtube.com/watch?v=Cvrqmq9A3tA  or https://www.windowscentral.com/howinstall-bash-shell-command-line-windows-10 ) 
 After the installation of Ubuntu, necessary packages has to be installed such as  
-1. Java 8 2. BWA 3. Samtools 4. Unzip 
+1. Java 8 
+2. BWA 
+3. Samtools 
+4. Unzip 
+
 These tools and packages can be downloaded by the CusVarDB tool. Go to the CusVarDB main page and click on "Install Linux dependencies". This option will download the tools and packages. After the each tool / package installation the terminal will asks for user to press any key to continue and download the next tool / packages.  
 
 In case, if user will find any problem in installing the Linux dependencies, below command will help in installing the packages / tools manually. 

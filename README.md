@@ -12,6 +12,12 @@ Apart from the main modules, the program also supports additional functions such
 2. Convert the SRA file to fastq file format 
 3. Download the annotation (ANNOVAR) database and Dry-run concept to customize the commands
 
+### Availability of executables
+1. https://sourceforge.net/projects/cusvardb/
+2. http://bioinfo-tools.com/Downloads/CusVarDB/V1.0.0/
+
+### Test datset
+Test dataset is available at http://bioinfo-tools.com/Downloads/CusVarDB/V1.0.0/test_dataset.rar
 ### System requirments
 	- Windows 10 or above
 	- Minimum system requirements include Intel i5 or i7 having at least 4 cores with 8 GB of RAM and 1 TB hard drive  

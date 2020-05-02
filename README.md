@@ -18,7 +18,7 @@ Apart from the main modules, the program also supports additional functions such
 
 ### Test datset
 Test dataset is available at https://sourceforge.net/projects/cusvardb/files/Test_datasets.zip/download or http://bioinfo-tools.com/Downloads/CusVarDB/V1.0.0/test_dataset.rar
-### System requirments
+### System requirements
 	- Windows 10 or above
 	- Minimum system requirements include Intel i5 or i7 having at least 4 cores with 8 GB of RAM and 1 TB hard drive  
 (**Note**: High performance processors such as Intel i9 or Xeon and large quantity of RAM can enable faster execution of tasks.)

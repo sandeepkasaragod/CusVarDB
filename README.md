@@ -59,7 +59,7 @@ sudo apt install unzip
 
 **(Note**: Make sure that you have followed the order of downloading the tools / packages. In case any error occurred during the alignment process then make sure that you have installed the Samtools version 1.7 (using htslib 1.7-2) and BWA version (0.7.17-r1188).)
  
-ANNOVAR can be downloaded at: http://annovar.openbioinformatics.org/en/latest/user-guide/download/. Make sure that the Folder and the file names of downloaded tool are same as above mentioned. Otherwise the tool will end up giving error message “No such file or directory”
+ANNOVAR can be downloaded at: http://annovar.openbioinformatics.org/en/latest/user-guide/download/. Make sure that the Folder and the file names of downloaded tool are same as above mentioned. Otherwise the tool will end up giving error message “No such file or directory”.
 
 ### Additional features 
 User can download the SRA files from the SRR, ERR or DRR ids. The configuration panel provides the download option for downloading the SRA dataset using the wget command and fastq-dump command will converts them into single or paired end datasets

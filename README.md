@@ -29,7 +29,7 @@ Settings->Update & Security->For Developers, enable the "Developer mode" by clic
  
 Control panel->Uninstall programs->Turn windows feature on or off-> click on "Windows Subsystems for Linux". Restart the Operating System to take the effect. 
 
-Installing the Ubuntu 18.04 LTS 
+**Installing the Ubuntu 18.04 LTS**  
 Go to Microsoft stores->Search-> 
 Type “Ubuntu 18.04 LTS” and download the Ubuntu 18.04 LTS. 
 (If problem in installing, please follow the YouTube or the web link https://www.youtube.com/watch?v=Cvrqmq9A3tA  or https://www.windowscentral.com/howinstall-bash-shell-command-line-windows-10 ). After the installation of Ubuntu, necessary packages has to be installed such as  

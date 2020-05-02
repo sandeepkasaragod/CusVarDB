@@ -16,7 +16,7 @@ Apart from the main modules, the program also supports additional functions such
 1. https://sourceforge.net/projects/cusvardb/
 2. http://bioinfo-tools.com/Downloads/CusVarDB/V1.0.0/
 
-### Test datset
+### Test dataset 
 Test dataset is available at https://sourceforge.net/projects/cusvardb/files/Test_datasets.zip/download or http://bioinfo-tools.com/Downloads/CusVarDB/V1.0.0/test_dataset.rar
 ### System requirements
 	- Windows 10 or above

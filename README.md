@@ -14,10 +14,10 @@ Apart from the main modules, the program also supports additional functions such
 
 ### Availability of executables
 1. https://sourceforge.net/projects/cusvardb/
-2. http://bioinfo-tools.com/Downloads/CusVarDB/V1.0.0/
+2. https://drive.google.com/drive/folders/1i49sbU_acZg_S48SZWY4oJSDw9M_hyx6?usp=share_link
 
 ### Test dataset 
-Test dataset is available at https://sourceforge.net/projects/cusvardb/files/Test_datasets.zip/download or http://bioinfo-tools.com/Downloads/CusVarDB/V1.0.0/test_dataset.rar
+Test dataset is available at https://sourceforge.net/projects/cusvardb/files/Test_datasets.zip/download or https://drive.google.com/drive/folders/1i49sbU_acZg_S48SZWY4oJSDw9M_hyx6?usp=share_link
 ### System requirements
 	- Windows 10 or above
 	- Minimum system requirements include Intel i5 or i7 having at least 4 cores with 8 GB of RAM and 1 TB hard drive  
